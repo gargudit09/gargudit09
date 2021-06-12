@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @gargudit09
-- 👀 I’m interested in web development and coding 
-- 🌱 I’m currently learning programming languages
--you can contact me through : gargudit09@gmail.com
+- 👋 Hi, I’m @gargudit09.
+- 👀 I’m interested in web development and coding. 
+- 🌱 I’m currently learning programming languages i.e C and JS.
+-  you can contact me through : gargudit09@gmail.com
+- 
 
 <!---
 gargudit09/gargudit09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
