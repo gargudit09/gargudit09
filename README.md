@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gargudit09.
 - 👀 I’m interested in web development and coding. 
-- 🌱 I’m currently learning programming languages i.e C and JS.
--  you can contact me through : gargudit09@gmail.com
+- 🌱 I’m currently looking for opportunities to showcase my skills..
+-  you can contact me at: gargudit09@gmail.com
 - 
 
 <!---
